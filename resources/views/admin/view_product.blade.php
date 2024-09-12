@@ -67,7 +67,7 @@
       <div class="page-content">
         <div class="page-header">
           <div class="container-fluid">
-            <h1 style="color: white">Add Product</h1>
+            <h1 style="color: white">View Product</h1>
  
             <form action="{{ url('product_search') }}" method="GET">
                 @csrf

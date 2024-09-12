@@ -12,7 +12,7 @@
                       Gift Shop
                     </h1>
                     <p>
-                      Sequi perspiciatis nulla reiciendis, rem, tenetur impedit, eveniet non necessitatibus error distinctio mollitia suscipit. Nostrum fugit doloribus consequatur distinctio esse, possimus maiores aliquid repellat beatae cum, perspiciatis enim, accusantium perferendis.
+                      After seeing that there is no rejection, the matter is bound to prevent it, it will happen not to the needs of the error, the distinction of resilience takes. Our escape from pains is the result of distinction, we may be able to repulse some of the happy elders when, for you see clearly, bearing the accusers.
                     </p>
                     <a href="">
                       Contact Us
